@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://i.guns.lol/cO5TfheRvC2E3sfDsllqa6WFyJLBCskVICEhjfVkT8Igv.png" alt="Team Logo" />
+  <img src="https://easyfiles.cc/2025/2/5ab3c8c3-399f-49f4-bb42-15557f12c70f/TeamLogo.png" alt="Team Logo" />
 </div>
 
 
