@@ -12,6 +12,11 @@
   <a href="https://www.instagram.com/frc8866/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+</div>
+
+<br clear="both">
+
+<div align="center">
   <img src="https://i.guns.lol/cO5TfheRvC2E3sfDsllqa6WFyJLBCskVICEhjfVkT8Igv.png" alt="Team Logo" />
 </div>
 
