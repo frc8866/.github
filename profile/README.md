@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://easyfiles.cc/2025/2/5ab3c8c3-399f-49f4-bb42-15557f12c70f/TeamLogo.png" alt="Team Logo" />
+  <img src="https://easyfiles.cc/2025/2/570ad0f3-dac2-4bb1-8e96-3a4a290e50e8/DSC_6224.JPG" alt="Team Photo" />
 </div>
 
 
