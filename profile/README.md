@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://easyfiles.cc/2025/2/570ad0f3-dac2-4bb1-8e96-3a4a290e50e8/DSC_6224.JPG" alt="Team Photo" />
+  <img src="https://easyfiles.cc/2025/2/fab2c415-cf12-44be-af68-3ad82aaf75eb/DSC_6224.JPG" alt="Team Photo" />
 </div>
 
 
