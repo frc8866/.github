@@ -1,6 +1,6 @@
 # Innovation Robotics
 
-<h2 align="left">Welcome to Innovation Robotics! We are FIRST Robotics Competition (FRC) Team 8866, a team based in Georgia.</h2>
+<h2 align="left">Welcome to the Innovation Robotics github page! We are FIRST Robotics Competition (FRC) Team 8866, a team based in Georgia.</h2>
 
 <div align="center">
   <a href="https://www.youtube.com/@frc8866" target="_blank">
